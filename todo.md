@@ -9,5 +9,5 @@
     <b class="text-info">{{todo.get_priority_display}}</b> 
     {% endif %}  
 
-3.                       
+3. Django kullanırken class-based kullanmak tavsiye edilir.                       
                      
